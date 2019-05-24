@@ -10,4 +10,4 @@ A simple todo app built with Laravel, Tailwind CSS, and Vue.js
 If you check out the branches, you can find a separate one for each article.
 
 
-Check out <a href="https://thirsty-ptolemy-8f73c3.netlify.com/">Demo</a>
+Check out <a href="https://vue-tailwind-todo-list.netlify.com/">Demo</a>
