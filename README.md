@@ -8,3 +8,6 @@ A simple todo app built with Laravel, Tailwind CSS, and Vue.js
 - [Building a Todo App With Laravel, Vue.js, and Tailwind CSS Part III](https://nick-basile.com/blog/post/building-a-todo-app-with-laravel-vuejs-and-tailwind-css-part-iii)
 
 If you check out the branches, you can find a separate one for each article.
+
+
+Check out <a href="https://thirsty-ptolemy-8f73c3.netlify.com/">Demo</a>
